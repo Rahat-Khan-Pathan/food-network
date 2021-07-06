@@ -299,8 +299,8 @@ html
 .contact-container
 {
     display: flex;
-    width: 70%;
-    height: 90%;
+    width: 60%;
+    height: 85%;
     align-items: center;
     box-shadow: 1px 1px 15px rgba(199, 199, 199, 0.952);
     border-radius: 30px;
@@ -370,7 +370,7 @@ html
 #message
 {
     min-height: 150px;
-    padding-top: 15px;
+    padding-top: 25px;
     padding-bottom: 15px;
     font-weight: 700;
     font-size: 15px;
