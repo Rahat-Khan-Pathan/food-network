@@ -1,5 +1,4 @@
-
-/* Body Part */
+/*--------------------------------------------- Body Section Style Here ----------------------------------------------------*/
 body
 {
     font-family: 'Montserrat', sans-serif;
@@ -11,7 +10,7 @@ html
     scroll-behavior: smooth;
 }
 
-/* Naviagtion Part */
+/*--------------------------------------------- Navigation Bar Style Here ----------------------------------------------------*/
 .nav-links
 {
     width: 100%;    
@@ -85,7 +84,7 @@ html
     color: orangered;
 }
 
-/* Top Banner Part */
+/*--------------------------------------------- Top Banner Section Style Here ----------------------------------------------------*/
 .top-banner
 {
     display: flex;
@@ -161,7 +160,7 @@ html
     background-image: linear-gradient(90deg,#FF1E1E, #FBA24F);
 }
 
-/* About Part */
+/*--------------------------------------------- About Section Style Here ----------------------------------------------------*/
 .about
 {
     background-image: url("images/shapes/7.png");
@@ -221,7 +220,7 @@ html
     font-weight: 800;
 }
 
-/* Recipies Part */
+/*--------------------------------------------- Recipies Section Style Here ----------------------------------------------------*/
 .recipies
 {
     height: 1100px;
@@ -286,7 +285,7 @@ html
     box-shadow: 1px 1px 15px cyan;
 }
 
-/* Contact Part */
+/*--------------------------------------------- Contact Section Style Here ----------------------------------------------------*/
 .contact
 {
     display: flex;
@@ -382,7 +381,7 @@ html
     font-family: 'Montserrat', sans-serif;
 }
 
-/* Followers Part */
+/*--------------------------------------------- Followers Section Style Here ----------------------------------------------------*/
 .followers
 {
     height: 350px;
@@ -428,7 +427,7 @@ html
     -webkit-text-fill-color: transparent;
 }
 
-/* Footer Part  */
+/*--------------------------------------------- Footer Section Style Here ----------------------------------------------------*/
 footer
 {
     text-align: center;
