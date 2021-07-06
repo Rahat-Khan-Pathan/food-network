@@ -323,7 +323,7 @@ html
 {
     padding: 0px 30px;
     height: 55px;
-    width: 70%;
+    width: 60%;
     margin-bottom: 20px;
     border-radius: 30px;
     outline: none;
@@ -337,6 +337,11 @@ html
     text-align: left;
     cursor: text;
     font-family: 'Montserrat', sans-serif;
+    transition: 0.3s;
+}
+.text:focus
+{
+    width: 70%;
 }
 .fas
 {
